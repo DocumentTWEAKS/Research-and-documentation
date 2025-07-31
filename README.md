@@ -40,12 +40,4 @@ I’m always working on new ways to improve and optimize Windows. Here’s what 
 - **Learning More Advanced Techniques**: Diving deeper into Windows internals and advanced optimization techniques.
 - **Expanding the Community**: Creating more ways for people to join the learning process, contribute to the project, and improve their own systems.
 
----
-
-## 📜 License
-
-This project is open-source and licensed under the [MIT License](LICENSE). Feel free to explore, modify, and contribute to improving these tweaks.
-
----
-
 Thank you for visiting my repository! Let’s continue learning and improving together. If you have any questions or suggestions, don’t hesitate to reach out via the [Discord server](https://discord.gg/GXXrZzjYbt).
