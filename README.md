@@ -42,10 +42,4 @@ I’m constantly working to improve my understanding of Windows and refine my tw
 
 ---
 
-## License
-
-This project is open-source and licensed under the [MIT License](LICENSE). Feel free to explore, modify, and contribute to improving these tweaks.
-
----
-
 Thanks for checking out the repository! I hope you find the information helpful, and if you have any questions or suggestions, feel free to reach out via the [Discord server](https://discord.gg/GXXrZzjYbt).
