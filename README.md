@@ -9,7 +9,7 @@ This project is my personal learning space where I experiment with and validate 
 ### What I’m Working On:
 
 - **Optimizing Windows for Better Performance**: I’m exploring different ways to improve the speed, responsiveness, and overall performance of Windows. This includes everything from system settings to registry tweaks.
-- **Validating Tweaks**: Each tweak I develop is tested and validated to ensure it delivers real benefits. My goal is to make sure these tweaks actually help improve system performance without causing issues.
+- **Validating Tweaks**: Each tweak is tested and validated to ensure it delivers real benefits. My goal is to make sure these tweaks actually help improve system performance without causing issues.
 - **Learning and Sharing**: This is a learning process, and I want to invite others to join in. I share everything I’m learning so others can benefit, too. Feel free to experiment, give feedback, or suggest improvements.
 
 ## Join the Community
